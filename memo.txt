@@ -1,0 +1,3 @@
+・AzureでWebAPPを作成
+・java使用
+・gitHubでバージョン管理する
